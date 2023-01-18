@@ -1,0 +1,8 @@
+h1 {
+  color: blue;
+}
+
+.box input:checked ~ .checkmark:after {
+    text-decoration: line-through;
+  }
+
